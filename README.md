@@ -5,12 +5,53 @@ A pseudo-3D First-Person Shooter game for Linux terminal with raycasting engine!
 ## Features
 
 - 🎯 **Pseudo-3D Rendering** - Wolfenstein-style raycasting
-- 🎮 **3 Game Modes** - Simple, Medium, Advanced
+- 🎮 **4 Game Modes** - Simple, Medium, Advanced, Multiplayer
 - 👾 **Multiple Enemy Types** - Grunt, Shotgunner, Sniper, Boss
 - ⚡ **Powerups** - Health, Ammo, Armor, Damage, Speed
-- 🗺️ **Two Map Types** - Pre-built Arena or Random Generation
-- 🔫 **Weapons System** - Pistol, Rifle, Knife, Shotgun
+- 🗺️ **5 Built-in Levels** - The Warehouse, The Corridor, The Arena, The Fortress, The Lab
+- 🔫 **9 Weapons** - Pistol, Rifle, Knife, Shotgun, Machine Gun, Sniper, Grenade, Rocket Launcher, Flame Thrower
 - 📊 **Score & Wave System** - Endless waves with increasing difficulty
+- 🔊 **Sound Effects** - Visual feedback for all actions
+- 👥 **Multiplayer** - Local co-op (2-4 players on same screen)
+- 🛠️ **Level Editor** - Create custom maps
+
+## New Features Added!
+
+### 🔊 Sound Effects
+- Shoot, enemy hit, player hit sounds
+- Pickup and powerup effects
+- Wave complete and game over sounds
+
+### 👥 Multiplayer Mode
+- 2-4 players on same screen
+- Split controls (1-4 to switch players)
+- Cooperative gameplay
+- Shared or individual scores
+
+### 🔫 More Weapons (9 total!)
+| # | Weapon | Damage | Ammo | Notes |
+|---|--------|--------|------|-------|
+| 1 | Pistol | 25 | 12 | Starter |
+| 2 | Rifle | 35 | 30 | Auto |
+| 3 | Knife | 50 | ∞ | Melee |
+| 4 | Shotgun | 80 | 8 | Spread |
+| 5 | Machine Gun | 20 | 100 | Rapid fire |
+| 6 | Sniper | 150 | 5 | One-shot |
+| 7 | Grenade | 100 | 3 | AoE |
+| 8 | Rocket Launcher | 200 | 2 | Boss killer |
+| 9 | Flame Thrower | 15 | 50 | Spray |
+
+### 🗺️ 5 Action Levels
+1. **The Warehouse** - Easy, 3 enemies
+2. **The Corridor** - Medium, 5 enemies
+3. **The Arena** - Medium, 6 enemies
+4. **The Fortress** - Hard, 8 enemies
+5. **The Lab** - Extreme, 10 enemies
+
+### 🛠️ Level Editor
+- Create custom maps
+- Save/load maps
+- Place walls and corridors
 
 ## Screenshots
 
